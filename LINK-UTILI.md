@@ -9,4 +9,5 @@ Link molto rilevanti trovati fin'ora:
 - http://www.fastweb.it/web-e-digital/imparare-a-programmare-da-bambini-le-risorse-sul-web/ (Panoramica);
 - http://www.generazioniconnesse.it/site/it/home-page/ (Fantastico! sull'educazione all'uso del digitale con video);
 -https://www.mamamo.it/ (blog ricco di contenuti relativi a uso consapevole digital);
-- https://csunplugged.org/en/
+- https://csunplugged.org/en/;
+- https://scratch.mit.edu/
