@@ -1,4 +1,8 @@
 # CodeKid
+
+> ENG: This is an Italian project with the main goal of giving new perspective and awareness in the IT field, for kids. 
+It carries a strong meaning in trying to change a something in this country, so it starts just in Italian for now.
+
 Progetto di formazione, divulgazione e consapevolezza digitale e su IT, per la fascia più giovane - Codekid
 
 
