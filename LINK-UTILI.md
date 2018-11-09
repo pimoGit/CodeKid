@@ -10,4 +10,5 @@ Link molto rilevanti trovati fin'ora:
 - http://www.generazioniconnesse.it/site/it/home-page/ (Fantastico! sull'educazione all'uso del digitale con video);
 -https://www.mamamo.it/ (blog ricco di contenuti relativi a uso consapevole digital);
 - https://csunplugged.org/en/;
-- https://scratch.mit.edu/
+- https://scratch.mit.edu/;
+- https://mitmedialab.github.io/cognimates-website/about/ (piattaforma per iniziare a giocare e con l'AI ed il machine learning)
